@@ -1,0 +1,14 @@
+                                                                    List of databases
+             Name              |          Owner          | Encoding |   Collate   |    Ctype    |                    Access privileges                    
+-------------------------------+-------------------------+----------+-------------+-------------+---------------------------------------------------------
+ mystore                       | roderickjackson-bradley | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ mystore_development           | mystore                 | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ postgres                      | roderickjackson-bradley | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ refinery_database_development | postgres                | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ roderickjackson-bradley       | roderickjackson-bradley | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ template0                     | roderickjackson-bradley | UTF8     | en_US.UTF-8 | en_US.UTF-8 | =c/"roderickjackson-bradley"                           +
+                               |                         |          |             |             | "roderickjackson-bradley"=CTc/"roderickjackson-bradley"
+ template1                     | roderickjackson-bradley | UTF8     | en_US.UTF-8 | en_US.UTF-8 | =c/"roderickjackson-bradley"                           +
+                               |                         |          |             |             | "roderickjackson-bradley"=CTc/"roderickjackson-bradley"
+(7 rows)
+
